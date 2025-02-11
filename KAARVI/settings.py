@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 # CSRF Trusted Origins (Add your Render domain here)
-CSRF_TRUSTED_ORIGINS = ['https://kaarvienterprises.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://your-render-app.onrender.com']
 
 # Application definition
 INSTALLED_APPS = [
